@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DB\\S-follow\\S-Follow-dotnet\\S-Follow-dotnet.csproj": {}
+    "C:\\DB\\S-follow\\S-Follow-Dotnet\\S-Follow-dotnet.csproj": {}
   },
   "projects": {
-    "C:\\DB\\S-follow\\S-Follow-dotnet\\S-Follow-dotnet.csproj": {
+    "C:\\DB\\S-follow\\S-Follow-Dotnet\\S-Follow-dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DB\\S-follow\\S-Follow-dotnet\\S-Follow-dotnet.csproj",
+        "projectUniqueName": "C:\\DB\\S-follow\\S-Follow-Dotnet\\S-Follow-dotnet.csproj",
         "projectName": "S-Follow-dotnet",
-        "projectPath": "C:\\DB\\S-follow\\S-Follow-dotnet\\S-Follow-dotnet.csproj",
+        "projectPath": "C:\\DB\\S-follow\\S-Follow-Dotnet\\S-Follow-dotnet.csproj",
         "packagesPath": "C:\\Users\\l045401\\.nuget\\packages\\",
         "outputPath": "C:\\DB\\S-follow\\S-Follow-dotnet\\obj\\",
         "projectStyle": "PackageReference",
