@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S-Follow-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ce932345a01596ab127578caa661d704f87c6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+228b72e5ccfecbaa87286253327e93f4a7adc0a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("S-Follow-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S-Follow-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
